@@ -1,7 +1,7 @@
 # Destini 🤔
 
 ## Main Goal
-Building an adventure game like Bandersnatch, where I'll apply some Dart OOP principles to make a well organised project.
+Build an adventure game like Bandersnatch, where I'll apply some Dart OOP principles to make a well organised project.
 
 ## Some screen captures
 
