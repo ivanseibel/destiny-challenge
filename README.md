@@ -1,15 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Destini 🤔
 
-## Our Goal
+## Main Goal
+Building an adventure game like Bandersnatch, where I'll apply some Dart OOP principles to make a well organised project.
 
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
+## Some screen captures
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+### Screen 1
+![](https://github.com/ivanseibel/assets/blob/master/img/destiny-challenge/Screenshot_1579298281.png)
 
+### Screen 2
+![](https://github.com/ivanseibel/assets/blob/master/img/destiny-challenge/Screenshot_1579298285.png)
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+### Screen 3
+![](https://github.com/ivanseibel/assets/blob/master/img/destiny-challenge/Screenshot_1579298292.png)
